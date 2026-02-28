@@ -3,6 +3,10 @@ This project investigates deep learning approaches for detecting pneumonia from 
 
 The work progresses from a simple convolutional neural network trained from scratch to a transfer learning approach using a pretrained DenseNet121 architecture. Each model is evaluated using accuracy, confusion matrices, class-wise precision/recall, ROC–AUC, and decision threshold analysis.
 
+## Dataset Link
+The dataset retrieved from Kaggle:
+https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+
 ## Dataset Description
 The dataset consists of labeled chest X-ray images with two classes: **NORMAL** and **PNEUMONIA**.
 
